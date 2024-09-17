@@ -37,6 +37,7 @@ O banco de dados SQLite `futebol.db` possui as seguintes tabelas:
 * Framework: Flask
 * Bibliotecas necessárias: Flask-SQLAlchemy
 * IDE: Visual Studio Code
+* Extensão do Visual Studio Code : SQLite Viewer (para visualizar e gerenciar o banco de dados SQLite)
 * API REST local em execução no endereço `http://localhost:5000`
 
 ## Instalação das Dependências
