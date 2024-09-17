@@ -1,7 +1,7 @@
 # API REST - Football Data
 
 ## Descrição
-A API REST desenvolvida para armazenar e fornecer dados de jogadores e clubes de futebol.
+API REST desenvolvida para armazenar e fornecer dados de jogadores e clubes de futebol.
 
 ## Estrutura do Projeto
 * `app.py`: Arquivo principal da aplicação, contendo a lógica da API REST
